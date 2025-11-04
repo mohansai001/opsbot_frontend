@@ -4,6 +4,5 @@
   ],
   "framework": "vite",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "ignoreCommand": "echo 'No files to ignore'"
+  "outputDirectory": "dist"
 }
