@@ -15,7 +15,7 @@
     "@langchain/google-genai": "^0.2.18",
     "axios": "^1.12.2",
     "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
+  "dotenv": "^16.6.1",
     "express": "^5.1.0",
     "langchain": "^0.3.36",
     "lucide-react": "^0.545.0",
